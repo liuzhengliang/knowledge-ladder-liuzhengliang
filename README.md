@@ -1,6 +1,6 @@
 # Java基础
 
-## [计算机基础](https://gitee.com/liuzhengliang_admin/SpringBootStart/blob/master/src/main/java/com/liuzhengliang/note/计算机基础.md)
+## [计算机基础](https://github.com/liuzhengliang/knowledge-ladder-liuzhengliang/blob/master/src/main/java/com/liuzhengliang/note/计算机基础.md)
 ### 基础
 1.  正码，反码与补码
 2.  GB,MB,KB,BYTE,BIT的换算关系
@@ -9,7 +9,7 @@
 ### 进阶
 1.  浮点数float计算时产生精度问题的原理
 
-## [语言基础](https://gitee.com/liuzhengliang_admin/SpringBootStart/blob/master/src/main/java/com/liuzhengliang/note/语言基础.md)
+## [语言基础](https://github.com/liuzhengliang/knowledge-ladder-liuzhengliang/blob/master/src/main/java/com/liuzhengliang/note/语言基础.md)
 ### 基础
 1.  8种基本类型的介绍，包括其各自的长度取值范围和使用场景，基本类型对应的包装类介绍
 2.  Object类下的常用方法介绍和相应作用
